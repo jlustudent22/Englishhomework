@@ -1,7 +1,7 @@
 ## 中文网络小说网站
 [起点中文网](https://www.qidian.com/)
 ## the other md
-[sanbing](sanbing)  
+[sanbing](sanbing.md)  
 
 #### webpicture
 ![qidian](https://bookcover.yuewen.com/qdbimg/349573/1031071889/180)
