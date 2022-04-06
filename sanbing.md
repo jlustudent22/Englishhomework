@@ -1,1 +1,1 @@
-[firsthomework](firsthomework)
+[firsthomework](firsthomework.md)
